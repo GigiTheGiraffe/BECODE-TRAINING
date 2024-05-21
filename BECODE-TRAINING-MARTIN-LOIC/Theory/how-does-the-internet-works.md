@@ -6,10 +6,11 @@
 
 - >"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 >> Citation de qq peu connu
-- >"Il ny a personne qui naime la souffrance pour elle-même, qui ne la recherche et qui ne la veuille pour elle-même..."
+- >"Il n'y a personne qui n'aime la souffrance pour elle-même, qui ne la recherche et qui ne la veuille pour elle-même..."
 >> Citation stylée
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pellentesque sem eget tortor fringilla elementum ut sed nunc. Quisque ve**h**icula mauris vitae luctus cons**e**ctetur. Vestibu**l**um ante ipsum primis in faucibus orci luctus et u**l**trices posuere cubilia curae; Curabitur non nibh ultrices libero consequat tincidunt. Duis tempor convallis dignissim. Suspendisse dictum urna quis dolor laoreet, ac porta **o**rci egestas. Nullam sit amet aliquam enim, at varius risus. Integer bibendum at sem non scelerisque. Fusce accumsan est neque, eget cursus leo laoreet eu. Quisque consequat dapibus posuere. Praesent orci ante, ultricies sit amet ipsum at, eleifend molestie sem.
-![Lorem Ipsum Gif](https://giphy.com/clips/photoshop-type-tool-irl-B0qMsfOnowZWcFkWEj)
+
+![Lorem Ipsum Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFsNXRreTM5NnpndWUzMHV1Y2dxMHZjd3V4YnNxb3BuY3NleDBrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q5u7xotqdKQLMBoY7x/giphy.gif)
 
 ---
 
@@ -39,3 +40,5 @@ Morbi molestie, magna eget laoreet elementum, lacus urna tem**p**or mauris, non 
 ---
 
 ![Have a good day](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnp6ZzhmMmQ0ejF3ZzlycGltMHZ6bW11Y2tmZmUzaG8waTdsNjZqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2rAKTgJIQe1buYU1R5/giphy.gif)
+
+this theory file has been reviewed by Martin Gausseran.
